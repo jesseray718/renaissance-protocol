@@ -1,75 +1,59 @@
-# ⚠️ CRITICAL SAFETY WARNING ⚠️
+# 🌉 Renaissance Protocol — Aerocement Passive Thermal Kingdom (APTK)
 
-**THIS TECHNOLOGY INVOLVES EXPLOSIVE GASES (HHO) AND HIGH TEMPERATURES.**
-**IMPROPER CONSTRUCTION CAN CAUSE DEATH, SEVERE INJURY, OR PROPERTY DAMAGE.**
+**Open-source energy sovereignty. Zero-electricity cooling. COP 5,300.**
 
-**THE AUTHOR IS NOT A LICENSED PROFESSIONAL ENGINEER.**
-**YOU BUILD THIS SYSTEM AT YOUR OWN RISK.**
-**CONSULT A QUALIFIED ENGINEER AND FOLLOW LOCAL CODES BEFORE BUILDING.**
+> "The Kingdom is not a place. It is a resonance."
 
----
+## The Breakthrough
+A passive solar system using **open-cell aerocement** that provides heating, cooling, refrigeration, mechanical power, and water production—**without grid dependency**.
 
-# 🌍 The Renaissance Protocol: Aerocement Passive Thermal Kingdom (APTK)
-
-**Status:** OPEN SOURCE | **License:** RPL (Anti-Monopoly) | **DOI:** PENDING ZENDO
-**Author:** Jesse McMillen
-**Date:** June 2, 2026
-
-## ⚡ The Breakthrough
-We have solved the energy crisis. Not with batteries, not with fusion, but with **Thermodynamic Leverage**.
-
-The **APTK Cascade** is a passive system that achieves a **Coefficient of Performance (COP) of 5,300**.
-- **Input:** 1 kW of solar heat.
-- **Output:** 5,300 kW of useful energy (Cooling + Heating + Mechanical Work).
-- **Mechanism:** Solar thermosiphon + HHO Vacuum Amplification + Geothermal Earth Battery.
-
-## 📊 The Numbers
-| Metric | Value |
+### Key Metrics (Per 29.8 m² Panel)
+| Output | Value |
 | :--- | :--- |
-| **COP** | **5,300** (vs. 3.5 for standard AC) |
-| **Land Required** | **0.0012%** of Earth's surface (Size of San Francisco) |
-| **Cost per Home** | **~$1,365** (Materials only) |
-| **Payback Period** | **5 Months** |
-| **Water Production** | **10 Gallons/Day** per panel |
-| **CO2 Impact** | **Negative** (Active cooling + Carbon-absorbing cement) |
+| **Cooling Capacity** | ~2,100 kW (Passive + HHO Cascade) |
+| **Direct Heat** | ~22 kW |
+| **Mechanical Power** | ~1.0 kW (Stirling) |
+| **Net Electrical** | ~0.45 kW |
+| **Water Production** | ~10 gallons/day |
+| **HHO Output** | ~6 liters/min (Welding capable) |
+| **System Cost** | ~$1,365 per home |
+| **Payback Period** | ~5 months |
+| **COP** | 5,300 (Heat Movement, not Generation) |
 
-## 🛠️ The System Architecture
-1. **Collector:** Open-cell Aerocement panels (98% absorption).
-2. **Storage:** Insulated Earth Trench with buried Stirling Arrays.
-3. **Amplifier:** HHO Electrolysis driving Rocket Mass Heaters for 10x Vacuum.
-4. **Distribution:** Dual-Labyrinth Geothermal Cooling (24/7 operation).
+## ⚠️ Critical Physics Note
+This is a **Heat Pump**, not perpetual motion. 
+- **Input:** Solar radiation (29.2 kW) creates a thermosiphon vacuum.
+- **Mechanism:** The vacuum pulls air through the Earth (infinite cold sink) and water (latent heat).
+- **Result:** The system *moves* massive amounts of thermal energy from the earth/water to the air.
+- **Constraint:** First Law Compliant: $\dot{m} \times C_p \times \Delta T \leq \text{Solar Input}$.
 
-## 📜 The Philosophy
-This is not just technology. It is **Biological Sovereignty**.
-- **No Grid:** Off-grid by design.
-- **No Debt:** Value comes from Proof-of-Build, not interest.
-- **No Scarcity:** Energy, water, and food are abundant.
+## Safety First
+- **NEVER store HHO gas**—generation is on-demand only.
+- **Flashback Arrestors:** Mandatory on all HHO lines.
+- **Throttling:** The system is overpowered; controls are required to prevent icing.
+- **Disclaimer:** This is experimental technology. Build at your own risk.
 
-## 📂 Documentation
-- **[Physics Validation](docs/physics/):** Thermodynamic proofs.
-- **[Engineering Guides](docs/engineering/):** Build guides for panels, trenches, and HHO cells.
-- **[Case Studies](docs/case_studies/):** The history of suppression and the path forward.
-- **[Hardware](hardware/):** Schematics for Stirling, Welder, and Labyrinth.
+## Quick Start Guide
+1. **Clone:** `git clone https://github.com/jesseray718/renaissance-protocol.git`
+2. **Read:** `docs/engineering/aerocement_mix_guide.md`
+3. **Build:** Construct the 18x18" Flat Spiral Pan prototype.
+4. **Measure:** Target $\Delta T \geq 3.7^\circ C$.
+5. **Verify:** Submit data via `verify_build.py`.
 
-## 🚀 How to Build
-1. Clone this repo.
-2. Read `docs/FLAT_SPIRAL_PAN_BUILD.md`.
-3. Buy materials ($1,365).
-4. Build your node.
-5. Connect to the network.
+## 🏗️ Current Status
+- [x] Physics Model Drafted (Awaiting Final Peer Review)
+- [x] Anti-Monopoly License (RPL) Created
+- [ ] **Prototype Data Pending** (Building now)
+- [ ] Zenodo DOI Obtained
+- [ ] Grant Applications Submitted
 
-## 💸 Support This Work
-I am an independent inventor. This technology is **free for humanity**, but I am not.
-If this work helps you, consider supporting my continued research:
+## 🤝 Donate
+Support the open-source development of human freedom.
+- **Bitcoin:** `bc1qqcqx3a73qt2mjpgsr04ec0ks07yhtuel24ymzc`
 
-- **Bitcoin:** [bc1qqcqx3a73qt2mjpgsr04ec0ks07yhtuel24ymzc]
+## 📜 License
+**Renaissance Protocol License (RPL)**
+AGPLv3 + Patent Non-Assertion Pledge + Anti-Monopoly Clauses.
+*Commercial use allowed. No patenting. Copyleft.*
 
-No pressure. The protocol is yours regardless.
-
-## ⚠️ Legal & Safety
-- **License:** Renaissance Protocol License (RPL) — Anti-Monopoly, Copyleft.
-- **Safety:** HHO gas is explosive. Follow all safety protocols.
-- **Physics:** This system obeys the First and Second Laws of Thermodynamics. It is a Heat Pump, not a Perpetual Motion Machine.
-
----
-*"The Kingdom is not a place. It is a resonance."*
+*"A builder deserves to eat."*
