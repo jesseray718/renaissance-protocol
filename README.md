@@ -176,3 +176,10 @@ Copyright © 2026 Jesse McMillen. Licensed under the Renaissance Protocol Licens
 ## Zenodo DOI
 
 https://doi.org/10.5281/zenodo.20524573
+
+## 🌐 Decentralized Mirror (IPFS)
+
+This project is mirrored on IPFS for censorship resistance:
+🔗 https://ipfs.io/ipfs/QmfWjtYgz3K9DKvdyYEqtLpHSZQArio5ZRMXP7BkFYdUU8
+
+*Hash: QmfWjtYgz3K9DKvdyYEqtLpHSZQArio5ZRMXP7BkFYdUU8*
