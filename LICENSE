@@ -1,3 +1,4 @@
+cat > LICENSE << 'ENDOFFILE'
 # RENAISSANCE PROTOCOL LICENSE (RPL)
 # Based on GNU Affero General Public License v3.0 (AGPLv3) with Patent Grant
 
@@ -11,52 +12,50 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 1. COMMERCIAL USE ALLOWED:
-   You may use this technology to start a business, sell services, or build
-   products. You may charge for your labor, installation, and maintenance.
-   You MAY NOT charge for the right to use the core technology itself.
+
+You may use this technology to start a business, sell services, or build
+products. You may charge for your labor, installation, and maintenance.
+You MAY NOT charge for the right to use the core technology itself.
 
 2. NO PATENT MONOPOLY:
-   The core technology (Aerocement Passive Thermal Kingdom, HHO Cascade,
-   Stirling Trench, and related methods) is hereby dedicated to the public
-   domain regarding patent rights. No entity may obtain a patent on the
-   core technology described in this repository.
 
-3. COPyleft (SHARE ALIKE):
-   If you modify this software or documentation and distribute it (or use it
-   to provide a service over a network), you MUST release your modifications
-   under this same license. You cannot close the source code of improvements.
+The core technology (Aerocement Passive Thermal Kingdom, Spiral Labyrinth,
+Stirling Trench, Natalus Panel, Continuous Shoot Harvest, and related methods)
+is hereby dedicated to the public domain regarding patent rights. No entity
+may obtain a patent on the core technology described in this repository.
+
+3. COPYLEFT (SHARE ALIKE):
+
+If you modify this software or documentation and distribute it (or use it
+to provide a service over a network), you MUST release your modifications
+under this same license. You cannot close the source code of improvements.
 
 4. PATENT RETALIATION:
-   If you initiate patent litigation against anyone alleging that this
-   Software infringes your patent, your license to use this Software
-   terminates immediately.
+
+If you initiate patent litigation against anyone alleging that this
+Software infringes your patent, your license to use this Software
+terminates immediately.
 
 5. NO WARRANTY:
-   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
-   OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-   FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
-   THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL
+THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY.
 
 6. ATTRIBUTION:
-   Any commercial product derived from this work must include a visible
-   attribution: "Powered by the Renaissance Protocol (Open Source)."
 
----
-This license ensures that the technology remains a "Commons" while allowing
-entrepreneurs to build businesses around installation, customization, and
-support. It prevents any single entity from owning the future of energy.
+You must give appropriate credit to the original authors, provide a link
+to this license, and indicate if changes were made. You may do so in any
+reasonable manner, but not in any way that suggests the licensor endorses
+you or your use.
 
+This license grants perpetual, worldwide, non-exclusive, royalty-free
+permission to use, copy, modify, merge, publish, distribute, sublicense,
+and/or sell copies of the Software to any person who uses, modifies, or
+distributes this technology, provided they do not assert patent rights
+against others for using this technology.
 
----
-## ADDITIONAL PATENT NON-ASSERTION PLEDGE
-The Author hereby grants a perpetual, worldwide, non-exclusive, no-charge, 
-royalty-free, irrevocable patent license to use, make, have made, use, sell, 
-offer to sell, import, and otherwise transfer the Core Technology described 
-in this repository. 
-
-The Author further pledges NOT to assert any patent rights against anyone 
-who uses, modifies, or distributes this technology, provided they do not 
-assert patent rights against others for using this technology.
-
-If any entity attempts to patent any aspect of this Core Technology, 
+If any entity attempts to patent any aspect of this Core Technology,
 they are hereby excluded from the benefits of this license.
+ENDOFFILE

@@ -158,3 +158,17 @@ AGPLv3 + Patent Non-Assertion Pledge + Anti-Monopoly Clauses.
 *"The Beast cannot tax the heat you pull from the air."*
 *"Plant one seed. Harvest forever. Expand at will."*
 *"The truth cannot be deleted if it is everywhere."*
+
+## ⚖️ Legal Disclaimer
+
+**THE TECHNOLOGY DESCRIBED IN THIS REPOSITORY IS EXPERIMENTAL.**
+
+- It has not been certified by any regulatory body.
+- Performance figures are based on AI-assisted thermodynamic modeling and have NOT been confirmed by physical prototype testing.
+- Building this system involves risks including but not limited to: structural collapse, fire, explosion (HHO), carbon monoxide poisoning (biomass), drowning (water tanks), and electrical shock.
+- **By building any component of this system, you assume ALL risk and liability.**
+- The authors and contributors are NOT liable for injury, death, property damage, or financial loss.
+- Consult licensed engineers before large-scale construction.
+- Follow all local building codes and obtain necessary permits.
+
+Copyright © 2026 Jesse McMillen. Licensed under the Renaissance Protocol License (RPL).
