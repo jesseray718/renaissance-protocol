@@ -172,3 +172,7 @@ AGPLv3 + Patent Non-Assertion Pledge + Anti-Monopoly Clauses.
 - Follow all local building codes and obtain necessary permits.
 
 Copyright © 2026 Jesse McMillen. Licensed under the Renaissance Protocol License (RPL).
+
+## Zenodo DOI
+
+https://doi.org/10.5281/zenodo.20524573
