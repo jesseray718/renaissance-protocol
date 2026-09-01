@@ -119,3 +119,6 @@ The Kingdom is waiting. Let's build it.
 
 (C) 2026 Jesse McMillen
 Licensed under the Renaissance Protocol License (RPL)
+
+## Knowledge Integration
+See `docs/knowledge/`.
