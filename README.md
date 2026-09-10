@@ -124,6 +124,8 @@ Licensed under the Renaissance Protocol License (RPL)
 ## Knowledge Integration
 See `docs/knowledge/`.
 
+## 🌐 Main Site: https://jesseray718.github.io
+
 ## 🚀 Start Here
 
 **New to this project?** Start with these resources:
